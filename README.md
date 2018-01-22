@@ -19,4 +19,5 @@ You can interchange the arguments, the order doesn't matter.
 - [ ] Refactor some of this. It's a bit messy, but works for a first time go at it.
 - [ ] Use bucket filename instead of filename from web, if specified.
 - [ ] Flag to keep temp file.
+- [ ] Port this to AWS Lambda - Might run in to file size issues though.
 
